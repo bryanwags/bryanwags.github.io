@@ -5,8 +5,8 @@ theme = "lunar-zen"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
-title = "Chris Weaver"
-description = "Chris Weaver's blog site."
+title = "Bryan Wagner-Adair"
+description = "Bryan's blog site."
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
@@ -17,7 +17,7 @@ build_search_index = false
 highlight_code = false
 
 [extra]
-author = "Chris Weaver"
+author = "Bryan Wagner-Adair"
 github = "github author name"
 twitter = "twitter author name"
 icon_alt = "avatar image of a crescent moon"
