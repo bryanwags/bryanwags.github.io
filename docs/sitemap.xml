@@ -10,4 +10,12 @@
         <loc>https://bryanwags.github.io/articles/blog-post/</loc>
         <lastmod>2020-01-22</lastmod>
     </url>
+    <url>
+        <loc>https://bryanwags.github.io/articles/example/</loc>
+        <lastmod>2022-12-27</lastmod>
+    </url>
+    <url>
+        <loc>https://bryanwags.github.io/articles/hello-world/</loc>
+        <lastmod>2022-12-27</lastmod>
+    </url>
 </urlset>
