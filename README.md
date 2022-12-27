@@ -6,4 +6,5 @@
 1. Then check changes `git status` - wil show a list of all untracked changes 
 1. Then track all pending changes `git add .` 
 1. Check all have been tracked with `git status` should all now be in green
-1. Then commit with `git commit -m "Message"` This adds i
+1. Then commit with `git commit -m "Message"` This adds in the code to the local git repo
+1. Finally `git push` to push the code out to the online git repo
