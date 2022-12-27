@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://bryanwags.github.io"
-theme = "lunar-zen"
+theme = "sam"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -21,3 +21,7 @@ author = "Bryan Wagner-Adair"
 github = "bryanwags"
 icon_alt = "avatar image of a crescent moon"
 license = "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License CC BY-NC-SA\" style=\"vertical-align:middle;border-width:0\" width=80 height=15 src=\"/by-nc-sa-80x15.png\" /></a>"
+sam_menu = [
+    { text = "articles", link = "/articles" },
+    { text = "about", link = "/about" }
+]
