@@ -6,4 +6,4 @@ default = true
 
 # I am an example
 
-Please follow me
+Please follow me, please!
