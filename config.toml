@@ -25,5 +25,5 @@ sam_menu = [
     { text = "articles", link = "/articles" },
     { text = "about", link = "/about" },
     { text = "documents", link = "/docs" },
-    { text = "recommendations", link = "/recommendations" }
+    { text = "links", link = "/links"}
 ]
