@@ -25,6 +25,6 @@ sam_menu = [
     { text = "articles", link = "/articles" },
     { text = "about", link = "/about" },
     { text = "links", link = "/links"},
-    {text = "public docs folder", link = "https://wagneradairnetwork-my.sharepoint.com/:f:/g/personal/bryan_wagner-adair_net/EuJrN2eEpTFGg0K8TEtQcrYBuYV1kdn7J8bbmFTXnpp-ng?e=3nyQx4"},
+    { text = "public docs folder", link = "https://wagneradairnetwork-my.sharepoint.com/:f:/g/personal/bryan_wagner-adair_net/EuJrN2eEpTFGg0K8TEtQcrYBuYV1kdn7J8bbmFTXnpp-ng?e=3nyQx4"},
     { text = "bookings", link = "https://outlook.office.com/bookwithme/user/b626556d1e1e42198eb685fd0fe009ce@wagner-adair.net?anonymous&ep=plink"}
 ]
