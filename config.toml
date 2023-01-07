@@ -24,6 +24,6 @@ license = "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-s
 sam_menu = [
     { text = "articles", link = "/articles" },
     { text = "about", link = "/about" },
-    { text = "documents", link = "/docs" },
-    { text = "links", link = "/links"}
+    { text = "links", link = "/links"},
+    { text = "bookings", link = "https://outlook.office.com/bookwithme/user/b626556d1e1e42198eb685fd0fe009ce@wagner-adair.net?anonymous&ep=plink"}
 ]
