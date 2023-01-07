@@ -1,5 +1,5 @@
 +++
-title = "On the Font Line"
+title = "On the Front Line"
 date = 2022-12-31
 default = true
 +++
