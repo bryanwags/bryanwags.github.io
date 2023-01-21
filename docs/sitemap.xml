@@ -7,17 +7,6 @@
         <loc>https://bryanwags.github.io/about/</loc>
     </url>
     <url>
-        <loc>https://bryanwags.github.io/articles/</loc>
-    </url>
-    <url>
-        <loc>https://bryanwags.github.io/articles/on-the-front-line/</loc>
-        <lastmod>2022-12-31</lastmod>
-    </url>
-    <url>
-        <loc>https://bryanwags.github.io/articles/reflection/</loc>
-        <lastmod>2022-12-27</lastmod>
-    </url>
-    <url>
         <loc>https://bryanwags.github.io/docs/</loc>
     </url>
     <url>
@@ -25,5 +14,20 @@
     </url>
     <url>
         <loc>https://bryanwags.github.io/wedding/</loc>
+    </url>
+    <url>
+        <loc>https://bryanwags.github.io/writing/</loc>
+    </url>
+    <url>
+        <loc>https://bryanwags.github.io/writing/dealing-with-hc/</loc>
+        <lastmod>2023-01-20</lastmod>
+    </url>
+    <url>
+        <loc>https://bryanwags.github.io/writing/on-the-front-line/</loc>
+        <lastmod>2022-12-31</lastmod>
+    </url>
+    <url>
+        <loc>https://bryanwags.github.io/writing/reflection/</loc>
+        <lastmod>2022-12-27</lastmod>
     </url>
 </urlset>
