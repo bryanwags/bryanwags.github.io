@@ -13,21 +13,21 @@
         <loc>https://bryanwags.github.io/links/</loc>
     </url>
     <url>
-        <loc>https://bryanwags.github.io/wedding/</loc>
+        <loc>https://bryanwags.github.io/posts/</loc>
     </url>
     <url>
-        <loc>https://bryanwags.github.io/writing/</loc>
-    </url>
-    <url>
-        <loc>https://bryanwags.github.io/writing/dealing-with-hc/</loc>
+        <loc>https://bryanwags.github.io/posts/dealing-with-hc/</loc>
         <lastmod>2023-01-20</lastmod>
     </url>
     <url>
-        <loc>https://bryanwags.github.io/writing/on-the-front-line/</loc>
+        <loc>https://bryanwags.github.io/posts/on-the-front-line/</loc>
         <lastmod>2022-12-31</lastmod>
     </url>
     <url>
-        <loc>https://bryanwags.github.io/writing/reflection/</loc>
+        <loc>https://bryanwags.github.io/posts/reflection/</loc>
         <lastmod>2022-12-27</lastmod>
+    </url>
+    <url>
+        <loc>https://bryanwags.github.io/wedding/</loc>
     </url>
 </urlset>
