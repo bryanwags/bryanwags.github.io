@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://bryanwags.github.io"
-theme = "hermit_zola"
+theme = "sam"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -11,30 +11,20 @@ description = "Bryan's blog site."
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
 [extra]
-home_subtitle = "stuff about me"
-
-footer_copyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
-hermit_menu = [
-    { link = "/posts", name = "Posts" },
-    { link = "/about", name = "About" }
-]
-
-hermit_social = [
-    { name = "linked", link = "https://linkedin.com/in/bryanwagneradair" },
-    { name = "github", link = "https://github.com/bryanwags" },
-    { name = "email", link = "mailto:bryan@wagner-adair.net" }
-]
-
-
-
-[extra.highlightjs]
-enable = true
-clipboard = true
-theme = "vs2015"
-
-[extra.author]
-name = "Bryan Wagner-Adair"
-email = "bryan@wagner-adair.net"
-
+author = "Bryan Wagner-Adair"
+github = "github author name"
+twitter = "twitter author name"
+icon_alt = "avatar image of a crescent moon"
+license = "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License CC BY-NC-SA\" style=\"vertical-align:middle;border-width:0\" width=80 height=15 src=\"/by-nc-sa-80x15.png\" /></a>"
+sam_menu = [
+    { text = "posts", link = "/posts" },
+    { text = "about", link = "/about" },
+    { text = "github", link = "https://github.com/bryanwags" },
+    { text = "links", link = "/links" }
+    ]

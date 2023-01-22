@@ -7,4 +7,4 @@
 1. Then track all pending changes `git add .` 
 1. Check all have been tracked with `git status` should all now be in green
 1. Then commit with `git commit -m "Message"` This adds in the code to the local git repo
-1. Finally `git push` to push the code out to the online git repo
+1. Finally `git push` to push the code out to the online git repoz
