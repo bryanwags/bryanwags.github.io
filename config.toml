@@ -23,8 +23,8 @@ twitter = "twitter author name"
 icon_alt = "avatar image of a crescent moon"
 license = "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License CC BY-NC-SA\" style=\"vertical-align:middle;border-width:0\" width=80 height=15 src=\"/by-nc-sa-80x15.png\" /></a>"
 sam_menu = [
-    { text = "about me", link = "/about" },
+  #  { text = "about me", link = "/about" },
   #  { text = "posts", link = "/posts" },
-    { text = "links", link = "/links" },
+   # { text = "links", link = "/links" },
     { text = "contact me", link = "https://forms.office.com/Pages/ResponsePage.aspx?id=JvgQ1Nba3EuClcnpMoeI7NyGj2LnvnhMot9yAualq11UN01XV05JN0lWSjZXT0ZTWEtFRDBKS1c0SC4u"},
     ]
