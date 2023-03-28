@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="https://bryanwags.github.io/style.css">
 
         <title>
-    404 - Not found
+    married
 </title>
 
         
@@ -22,7 +22,7 @@
     <div class="wrap">
         <div class="section" id="title">
             
-    Not found
+    married
 
         </div>
         <div class="section" id="sections">
@@ -30,11 +30,22 @@
         </div>
         <div class="section" id="content">
             
-<p>
-    Oops, looks like this content is not available.
-    <br>
-    <a href="https:&#x2F;&#x2F;bryanwags.github.io">home</a>
-    </p>
+    
+    <div>
+    <p id="days"></p>
+</div>
+<script>
+    function getTimeSinceMarriage() {
+let dateOfMarriage = new Date('2006/06/24')
+let now = new Date()
+let oneDay = 1000 * 60 * 60 * 24
+let diffInTime = now.getTime() - dateOfMarriage.getTime()
+return Math.round(diffInTime / oneDay).toString()
+    }
+
+document.querySelector('#days').innerText = `I have been married for: ${getTimeSinceMarriage()} days`
+
+</script>
 
         </div>
         
