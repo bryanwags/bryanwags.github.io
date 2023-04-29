@@ -26,5 +26,5 @@ sam_menu = [
     { text = "about me", link = "/about" },
   #  { text = "posts", link = "/posts" },
     { text = "links", link = "/links" },
-    { text = "contact me", link = "https://forms.office.com/Pages/ResponsePage.aspx?id=JvgQ1Nba3EuClcnpMoeI7NyGj2LnvnhMot9yAualq11UN01XV05JN0lWSjZXT0ZTWEtFRDBKS1c0SC4u"},
+    { text = "contact me", link = "https://docs.google.com/forms/d/e/1FAIpQLScHJLNiIQIcFuiPx-ZS4ijxBhFFsPlZ6_64ImN44Ptz3jXp2Q/viewform?usp=sf_link"},
     ]
