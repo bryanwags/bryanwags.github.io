@@ -9,4 +9,4 @@ These days, one has to have a [LinkedIn](https://www.linkedin.com/in/bryanwagner
 
 My other social links are [Facebook](https://www.facebook.com/bjjwa/), and [Instagram](https://www.instagram.com/ramshackle_bryan/).
 
-Thank you to my good friend [Ant](https://www.linkedin.com/in/anthony-newman-963098165/) who wrote the crazy difficult code to calculate the number of days I have been married!
+Thank you to my good friend [Ant](https://www.linkedin.com/in/anthony-newman-963098165/) who also assisted by teaching me some JavaScript.
