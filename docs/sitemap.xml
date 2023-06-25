@@ -7,6 +7,9 @@
         <loc>https://bryanwags.github.io/about/</loc>
     </url>
     <url>
+        <loc>https://bryanwags.github.io/categories/</loc>
+    </url>
+    <url>
         <loc>https://bryanwags.github.io/links/</loc>
     </url>
     <url>
@@ -18,5 +21,8 @@
     <url>
         <loc>https://bryanwags.github.io/posts/test/</loc>
         <lastmod>2023-01-20</lastmod>
+    </url>
+    <url>
+        <loc>https://bryanwags.github.io/tags/</loc>
     </url>
 </urlset>

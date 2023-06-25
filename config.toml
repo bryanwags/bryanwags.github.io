@@ -1,30 +1,35 @@
-# The URL the site will be built for
+title = "Bryan Wagner-Adair"
 base_url = "https://bryanwags.github.io"
-theme = "sam"
+description = "Bryan's blog"
+theme = "zola-bearblog"
 
 # Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
-
-title = "Bryan Wagner-Adair"
-description = "Bryan's blog site."
+compile_sass = false
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
+taxonomies = [
+  {name = "categories", feed = true},
+  {name = "tags", feed = true},
+]
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
+highlight_code = true
 
 [extra]
-author = "Bryan Wagner-Adair"
-github = "github author name"
-twitter = "twitter author name"
-icon_alt = "avatar image of a crescent moon"
-license = "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License CC BY-NC-SA\" style=\"vertical-align:middle;border-width:0\" width=80 height=15 src=\"/by-nc-sa-80x15.png\" /></a>"
-sam_menu = [
-    { text = "about me", link = "/about" },
-    { text = "posts", link = "/posts" },
-    { text = "links", link = "/links" },
-    { text = "contact me", link = "https://docs.google.com/forms/d/e/1FAIpQLScHJLNiIQIcFuiPx-ZS4ijxBhFFsPlZ6_64ImN44Ptz3jXp2Q/viewform?usp=sf_link"},
-    ]
+date_format="%d %b, %Y"
+
+[[extra.main_menu]]
+name = "About"
+url = "@/about.md"
+
+[[extra.main_menu]]
+name = "Links"
+url = "@/links.md"
+
+[[extra.main_menu]]
+name = "Blog"
+url = "@/posts/_index.md"
