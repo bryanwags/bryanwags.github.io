@@ -24,7 +24,7 @@ icon_alt = "avatar image of a crescent moon"
 license = "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License CC BY-NC-SA\" style=\"vertical-align:middle;border-width:0\" width=80 height=15 src=\"/by-nc-sa-80x15.png\" /></a>"
 sam_menu = [
     { text = "about me", link = "/about" },
-    { text = "posts", link = "/posts" },
+  #  { text = "posts", link = "/posts" },
     { text = "links", link = "/links" },
     { text = "contact me", link = "/contact" }
     ]
