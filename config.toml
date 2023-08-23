@@ -25,6 +25,6 @@ license = "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-s
 sam_menu = [
     { text = "about me", link = "/about" },
   #  { text = "posts", link = "/posts" },
-    { text = "links", link = "/links" },
+  #  { text = "links", link = "/links" },
     { text = "contact me", link = "/contact" }
     ]
